@@ -7,7 +7,7 @@ This is a course project that models individual consumption and saving behavior 
 ```
 quantitative-econ-project/
 │
-├── README.md               <- Project overview
+├── README.md             
 ├── code-hand-in-version.ipynb
 ├── presentation
 ```

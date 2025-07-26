@@ -1,5 +1,3 @@
-# quantitative-econ-project
-Lifecycle consumption and saving decisions (course project)
 # Lifecycle Consumption and Saving Decisions
 
 This is a course project that models individual consumption and saving behavior over the life cycle under different economic assumptions (e.g. borrowing cost, housing constraints).

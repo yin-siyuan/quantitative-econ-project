@@ -8,10 +8,8 @@ This is a course project that models individual consumption and saving behavior 
 quantitative-econ-project/
 │
 ├── README.md               <- Project overview
-├── notebooks/
-│   └── code-hand-in-version.ipynb
-├── ppt/                    <- Optional presentation file
-├── figures/                <- Optional saved output charts
+├── code-hand-in-version.ipynb
+├── presentation
 ```
 
 ## How to Run
